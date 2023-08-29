@@ -1,0 +1,26 @@
+body {
+    background-color: white;
+}
+h1 {
+    font-size: 2rem;
+    text-align: center;
+}
+
+#subtitle {
+    font-size: 1.3rem;
+}
+
+#border {
+    border: 1px solid rgba(38, 35, 35, 0.652);
+}
+
+#content {
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 10px;
+    background-color: white;
+    font-family: 'Libre Franklin', sans-serif;
+    text-align: center;    
+    padding: 10px; 
+    border: 1px solid rgba(173, 165, 165, 0.652);
+}
